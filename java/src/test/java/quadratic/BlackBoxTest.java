@@ -77,4 +77,8 @@ class BlackBoxTest {
             QuadraticSolver.solve(0.0, 1, 1);
         });
     }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> d7a4f90c3ec1c989b1391ebc037824716e998de9
